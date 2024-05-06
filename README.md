@@ -7,3 +7,6 @@ Using .NET version `8.0.300-preview.24203.14`
 - `dotnet sln add src/one`
 - `dotnet run --project src/one`
 - `dotnet new gitignore`
+
+#### Notes
+- asynchrony process itself invovles letting another process handle it while doing some of its own work.
